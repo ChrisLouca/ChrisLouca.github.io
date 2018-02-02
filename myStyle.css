@@ -52,7 +52,12 @@ input{
 	overflow: visible;
 }
 
-
+img{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
 
 
 .CLASS1{
@@ -90,6 +95,7 @@ input{
 	margin-right: 575px;
 	padding: auto;
 }
+
 
 #submit{
 	padding:8px;
